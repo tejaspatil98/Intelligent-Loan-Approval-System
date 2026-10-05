@@ -2,6 +2,8 @@
 
 An end-to-end Supervised Machine Learning pipeline and web application designed to automate loan eligibility evaluations for **SecureTrust Bank**, replacing slow, biased manual reviews with precise data-driven predictions.
 
+[Demo - SecureTrust Bank Intelligent Loan Approval System.webm](https://github.com/user-attachments/assets/1df9f243-6726-4199-ae45-843ed7dd014a)
+
 ---
 
 ## 📌 Problem Statement
